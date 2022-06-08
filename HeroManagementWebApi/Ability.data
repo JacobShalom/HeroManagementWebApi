@@ -1,0 +1,2 @@
+﻿insert into  [dbo].[Ability] ([Ability_Id],[Ability_desc])
+values (1,'attaker') , (2 ,'defender')
